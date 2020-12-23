@@ -1,5 +1,7 @@
 # Analysis - Academy of Py
 
+Click [here](https://plotly.com/javascript/gauge-charts/) for gauge chart.
+
 [Cookie](https://github.com/ruchichandra/demo-repository/blob/main/Image/Cookie.jpg)
 
 [Text File](https://github.com/ruchichandra/demo-repository/blob/main/Pictures/test.txt)
