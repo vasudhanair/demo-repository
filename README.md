@@ -1503,3 +1503,12 @@ Type_Score
 </div>
 
 
+<<<<<<< HEAD
+=======
+## This is a demo repo.
+
+### Test repo
+
+
+![image_name](Image/Cookie.jpg)
+>>>>>>> eb7e4dc037aeb69fc7aacd38b5a7f4364bbd914f
