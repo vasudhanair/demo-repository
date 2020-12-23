@@ -1,5 +1,9 @@
 # Analysis - Academy of Py
 
+![Image Link](https://github.com/ruchichandra/demo-repository/tree/main/Image)
+
+![Cookie](https://github.com/ruchichandra/demo-repository/tree/main/Image)
+
 - As per the District and School Summary, students are doing better in reading rather than math. But the overall passing rate is not very satisfactory for all the schools. Going forward, more attention is required for getting better scores in Math to improve the overall scores and performance of the schools.
 
 - Top performing schools are mostly charter schools. There is a significant difference in overall passing rates of the charter and district schools - 
