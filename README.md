@@ -1,6 +1,8 @@
 # Analysis - Academy of Py
 
-[Click here for Image](https://github.com/ruchichandra/demo-repository/tree/main/Image)
+[Cookie](https://github.com/ruchichandra/demo-repository/blob/main/Image/Cookie.jpg)
+
+![Cookie](https://github.com/ruchichandra/demo-repository/blob/main/Image/Cookie.jpg)
 
 
 
