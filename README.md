@@ -1,6 +1,6 @@
 # Analysis - Academy of Py
 
-Click [here](https://plotly.com/javascript/gauge-charts/) for gauge chart.
+Click [here](https://belly-button-biodiversity.herokuapp.com/) for BellyButton Dashboard.
 
 [Cookie](https://github.com/ruchichandra/demo-repository/blob/main/Image/Cookie.jpg)
 
